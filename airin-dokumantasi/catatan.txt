@@ -1,0 +1,38 @@
+toko buku ada pembeli ada produk buku
+
+kita mulai mengerjakan dari backend 
+ mulai dari instal nodemon 
+-> npm i -g nodemon 
+-> nodemon -v
+
+
+cara menginstal backend
+-> buat folder
+-> buka vcd
+-> buka terminal(gitbash)
+-> npm -yv -> hasilnya package json
+-> npm i express - body - parser mysql cosr
+
+DATABASE...
+1. PEMBELI BUKU
+> id -> integer
+> nomor_anggota -> string
+> nama -> string
+> username -> string
+> password -> string
+> created_by -> tanggal
+> update -> tanggal
+
+2. PRODUK BUKU(nama tabel, produk)
+> id -> integer
+> nomor_produk ->string
+> halaman -> string
+> judul buku -> string
+> gendre -> string
+> tahun_terbit -> string
+> penulis -> string
+> harga ->
+> isbn ->
+> diskon ->
+> created ->
+> update ->
