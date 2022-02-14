@@ -10,7 +10,7 @@ kita mulai mengerjakan dari backend
 3. buat databes namatoko_db
 4. atur privileges untuk membuat user
 5. buat use acount baru
-5. buat nama user : airinfill
+5. buat nama user : airinfil
          password :kasualitas123
 6. membuat table lalu membuat tabel sesuai keperluan 
 
