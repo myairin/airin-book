@@ -45,16 +45,17 @@ TABEL DATABASES
  
 
 CARA BUAT BACKEND
-1. masuk ke folder airin-book dan buka di terimal gitbash
-2. 
+1. masuk ke folder airinbook dan buka di terimal gitbash
+2. buat app.js > dari gitbash > touch app.js
+
 
 
 cara menginstal backend
 -> buat folder
 -> buka vcd
 -> buka terminal(gitbash)
--> npm -yv -> hasilnya package json
--> npm i express body-parser mysql cosr
+-> npm -y -> hasilnya package json
+-> npm i express body-parser mysql cors dotenv
 
 DATABASE...
 1. PEMBELI BUKU
