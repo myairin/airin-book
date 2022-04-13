@@ -83,6 +83,12 @@
     box-sizing: border-box;
 }
 
+/* header */
+header {
+  background-color: white;
+}
+
+
 a {
     color: var(--color-links);
     text-decoration: none;
@@ -103,7 +109,14 @@ a {
   }
 
   .menu-card-title,
-  .book-table-title {
-      margin-bottom:50px;
+  .book-table-title
+  .register-card-title
+  .login-card-title {
+      margin-bottom:10px;
       text-align:center;
+  }
+
+  .menu-card .menu-card-top {
+    max-height: 150px;
+    object-fit: cover;
   }
